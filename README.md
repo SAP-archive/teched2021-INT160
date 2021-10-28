@@ -1,8 +1,8 @@
-# Session ID - Session Title
+# INT160 - Building a production grade automation in minutes with SAP Intelligent RPA
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called **INT160 - Building a production grade automation in minutes with SAP Intelligent RPA**.
 
 ## Overview
 
