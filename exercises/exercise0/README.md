@@ -1,8 +1,8 @@
 # ONBOARD TO SAP BUSINESS TECHNOLOGY PLATFORM TRIAL
 
-In this exercise, you will setup your SAP Intelligent RPA Trial account in Business Technology Platform.
+In this exercise, you will setup your SAP Intelligent RPA Trial account in Business Technology Platform. (https://github.com/SAP-samples/teched2021-INT160/tree/main/exercises/exercise1/Setup%20Trial%20Landscape.pdf)
 
-## Create Trial accounit in BTP
+## Create Trial account in BTP
 
 ## Enter Trial account
 
@@ -14,25 +14,10 @@ In this exercise, you will setup your SAP Intelligent RPA Trial account in Busin
 
 After completing these steps you will have your system ready with access to your:
 
-
-
-###  SAP Intelligent RPA Factoy and 
-
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
-
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+- SAP Intelligent Intelligent Robotic Process Automation Factory
+- Get your Desktop Agent installed in you machine
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have ...
+Continue to - [Exercise 1 - RPA Challenge Application Capture](../exercise1/README.md)
