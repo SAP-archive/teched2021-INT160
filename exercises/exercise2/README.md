@@ -1,42 +1,31 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - RPA Challenge Automations
 
-In this exercise, we will create...
+In this exercise, we will create the automations that will allow you to run the RPA challenge either successfully or with error to allow you experiment the Cold debugging feature.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 First Automation
 
-After completing these steps you will have created...
+After completing these steps you will have created your first automation.
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+## Exercise 2.2 Test Download Challenge
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+After completing these steps you will have tested the first part of your automation, making a download of the excel file.
 
+This excel file is needed for the second part of the automation where you will use it with Excel Cloud Link activity.
 
+## Exercise 2.3 Fill Fields Automation
 
-## Exercise 2.2 Sub Exercise 2 Description
+After completing these steps you will have created a second automation that will be used in a loop as a sub-automation.
 
-After completing these steps you will have...
+## Exercise 2.4 Run RPA Challenge with error and Project Pane
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+After completing these steps you will have created 
+- a Run RPA Challenge automation that will have an error during runtime.
+- a Project Pane that will hold two attended automations
+    - Run RPA Challenge
+    - Run RPA Challenge with error
 
 ## Summary
 
-You've now ...
+You've now completed the exercise 2 with aProject Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Deployment & Cold debugging](../exercise3/README.md)
