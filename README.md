@@ -6,24 +6,44 @@ This repository contains the material for the SAP TechEd 2021 session called **I
 
 ## Overview
 
-This session introduces attendees to learn how to use SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot for to run a very popular RPA Challenge combining a web application (http://www.rpachallenge.com) and Microsoft Excel.
+This session introduces attendees to learn how to use SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot for to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are described [here](exercises/exercise0/Setup%20Trial%20Landscape.pdf)
+The requirements to follow the exercises in this repository are described in the [Setup PDF document](exercises/exercise0/Setup%20Trial%20Landscape.pdf)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercises. You have to run the exercises 1, 2, and 3 in the order. These exercises are dependent of each other and the instructions are mentioned in the respective links below.
 
-- [Onboarding to SAP Intelligent RPA Trial](exercises/ex0/)
-- [Exercise 1 - RPA Challenge Application Capture](exercises/ex1/)
-- [Exercise 2 - RPA Challenge Automations](exercises/ex2/)
-    - [Exercise 2.1 - First Automation](exercises/ex2#exercise-21-First-Automation)
-    - [Exercise 2.2 - Test Download Challenge](exercises/ex2#exercise-22-Test-Download-Challenge)
-    - [Exercise 2.3 - Fill Fields Automation](exercises/ex2#exercise-23-fill-Fields-Automation)
-    - [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/ex2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
-- [Exercise 3 - Deployment & Cold debugging](exercises/ex3/)
+- [Onboarding to SAP Intelligent RPA Trial](exercises/exercise0/)
+    - Duration: 15 minutes. This is a **MANDATORY** exercise that should be done before the workshop.
+    - It will help you setup your SAP Business Technology Platform Trial account with SAP Intelligent RPA. 
+
+- [Exercise 1 - RPA Challenge Application Capture](exercises/exercise1/)
+    - Duration: 20 minutes 
+    - In this exercise, you will learn how to:
+
+- [Exercise 2 - RPA Challenge Automations](exercises/exercise2/)
+- [Exercise 2.1 - First Automation](exercises/exercise2#exercise-21-First-Automation)
+    - Duration: 30 minutes 
+    - In this exercise, you will learn how to:
+
+- [Exercise 2.2 - Test Download Challenge](exercises/exercise2#exercise-22-Test-Download-Challenge)
+    - Duration: 10 minutes 
+    - In this exercise, you will learn how to:
+
+- [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
+    - Duration: 20 minutes 
+    - In this exercise, you will learn how to:
+
+- [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/exercise2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
+    - Duration: 10 minutes 
+    - In this exercise, you will learn how to:
+
+- [Exercise 3 - Deployment & Cold debugging](exercises/exercise3/)
+    - Duration: 20 minutes 
+    - In this exercise, you will learn how to:
 
 ## How to obtain support
 
