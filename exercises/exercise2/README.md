@@ -26,6 +26,6 @@ After completing these steps you will have created
 
 ## Summary
 
-You've now completed the exercise 2 with aProject Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
+You've now completed the exercise 2 with a Project Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
 
 Continue to - [Exercise 3 - Deployment & Cold debugging](../exercise3/README.md)

@@ -1,31 +1,9 @@
-# Exercise 2 - RPA Challenge Automations
+# Exercise 3 - deployment & Cold debugging
 
-In this exercise, we will create the automations that will allow you to run the RPA challenge either successfully or with error to allow you experiment the Cold debugging feature.
+In this exercise, you will deploy your project and test it with error and follow the step of the cold debugging.
 
-## Exercise 2.1 First Automation
-
-After completing these steps you will have created your first automation.
-
-## Exercise 2.2 Test Download Challenge
-
-After completing these steps you will have tested the first part of your automation, making a download of the excel file.
-
-This excel file is needed for the second part of the automation where you will use it with Excel Cloud Link activity.
-
-## Exercise 2.3 Fill Fields Automation
-
-After completing these steps you will have created a second automation that will be used in a loop as a sub-automation.
-
-## Exercise 2.4 Run RPA Challenge with error and Project Pane
-
-After completing these steps you will have created 
-- a Run RPA Challenge automation that will have an error during runtime.
-- a Project Pane that will hold two attended automations
-    - Run RPA Challenge
-    - Run RPA Challenge with error
+After completing these steps you will have completed the whole workshop with its 3 exercises. 
 
 ## Summary
 
-You've now completed the exercise 2 with aProject Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
-
-Continue to - [Exercise 3 - Deployment & Cold debugging](../exercise3/README.md)
+You've now completed the exercise 3 with a Project deployed and tested with Cold debugging features. Congratulations!!
