@@ -1,6 +1,6 @@
 # Exercise 2 - RPA Challenge Automations
 
-In this exercise, we will create the automations that will allow you to run the RPA challenge either successfully or with error to allow you experiment the Cold debugging feature.
+In this exercise, you will create the automations that will allow you to run the RPA challenge either successfully or with error.
 
 ## Exercise 2.1 First Automation
 
@@ -18,7 +18,7 @@ After completing these steps you will have created a second automation that will
 
 ## Exercise 2.4 Run RPA Challenge with error and Project Pane
 
-After completing these steps you will have created 
+After completing these steps you will have created:
 - a Run RPA Challenge automation that will have an error during runtime.
 - a Project Pane that will hold two attended automations
     - Run RPA Challenge
@@ -27,5 +27,6 @@ After completing these steps you will have created
 ## Summary
 
 You've now completed the exercise 2 with a Project Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
+With the first case with error, in the next exercise, you will experience the power of the Cold debugging to understand the raised error.
 
 Continue to - [Exercise 3 - Deployment & Cold debugging](../exercise3/README.md)
