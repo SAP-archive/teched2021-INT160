@@ -10,7 +10,8 @@ This session introduces attendees to learn how to use SAPs new and simplified Lo
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are described in the [Setup PDF document](exercises/exercise0/Setup%20Trial%20Landscape.pdf)
+A **Windows machine** is required to run the entire workshop.
+The requirements to follow the exercises in this repository are described in the [Setup PDF document](exercises/exercise0/Setup%20Trial%20Landscape.pdf).
 
 ## Exercises
 
