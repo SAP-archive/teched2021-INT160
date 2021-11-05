@@ -27,7 +27,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
     - Once the screens are captured, you will recognize the UI elements you want to control on those screens, such as input fields, output fields, and buttons. These elements will be used in the next step : [RPA Challenge Automations](exercises/exercise2/)
     - Another key task is declaration, which means choosing the recognition criteria for the application, screens and UI elements that will be used at run time to correctly identify them.
     
-      !![RPA Challenge](rpa-challenge.png)
+!![RPA Challenge](rpa-challenge.png)
 
 - [Exercise 2 - RPA Challenge Automations](exercises/exercise2/)
 - [Exercise 2.1 - First Automation](exercises/exercise2#exercise-21-First-Automation)
