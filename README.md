@@ -24,6 +24,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
 - [Exercise 1 - RPA Challenge Application Capture](exercises/exercise1/)
     - Duration: 20 minutes 
     - In this exercise, you will learn how to:
+     you will create your first project in your Cloud Studio and capture the RPA Challenge Application with its Screens and Elements.
 
 - [Exercise 2 - RPA Challenge Automations](exercises/exercise2/)
 - [Exercise 2.1 - First Automation](exercises/exercise2#exercise-21-First-Automation)
