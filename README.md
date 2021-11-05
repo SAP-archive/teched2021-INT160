@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2021 session called **I
 
 ## Overview
 
-This session introduces attendees to learn how to use SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot for to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
+This session introduces attendees how to use SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
 
 ## Requirements
 
