@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2021 session called **I
 
 ## Overview
 
-This session introduces attendees how to use SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
+This session introduces attendees to SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
 
 ## Requirements
 
@@ -15,10 +15,10 @@ The requirements to follow the exercises in this repository are described in the
 
 ## Exercises
 
-There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercises. You have to run the exercises 1, 2, and 3 in the order. These exercises are dependent of each other and the instructions are mentioned in the respective links below.
+There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing any exercises. You have to run exercises 1, 2, and 3 in order. These exercises are dependent of each other and the instructions are mentioned in the respective links below.
 
 - [Onboarding to SAP Intelligent RPA Trial](exercises/exercise0/)
-    - Duration: 15 minutes. This is a **MANDATORY** exercise that would be done before the workshop.
+    - Duration: 15 minutes. This is a **MANDATORY** exercise that needs to be completed before the workshop.
     - It will help you setup your SAP Business Technology Platform Trial account with SAP Intelligent RPA. 
 
 - [Exercise 1 - RPA Challenge Application Capture](exercises/exercise1/)
