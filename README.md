@@ -48,7 +48,9 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 - [Exercise 2.2 - Test Download Challenge](exercises/exercise2#exercise-22-Test-Download-Challenge)
     - [Exercise 2.2 PDF document](exercises/exercise2/2.2%20-%20Test%20Download%20Challenge.pdf) 
     - Duration: 10 minutes
-    - In this exercise, you will learn how to:
+    - After completing the first automation, you will test it thanks to the tester side panel. This panel helps you test, troubleshoot but also display the execution flow of your automation.
+    - In this exercise, you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
+    - This testing will allow you to ensure that the file exists and that the path to the file is given.
 
 - [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
     - [Exercise 2.3 PDF document](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf) 
