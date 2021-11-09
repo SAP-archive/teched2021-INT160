@@ -55,7 +55,10 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 - [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
     - [Exercise 2.3 PDF document](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf) 
     - Duration: 20 minutes
-    - In this exercise, you will learn how to:
+    - In this second part, you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
+    - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
+    - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
+    - You will then add the Results application. Similarly you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
 
 - [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/exercise2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
     - [Exercise 2.4 PDF document](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf)
