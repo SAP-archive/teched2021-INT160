@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2021 session called **I
 
 ## Overview
 
-This session introduces attendees to SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
+This session introduces attendees to SAP's new and simplified Low-Code Cloud Design Studio. Learn how to build a bot to run a very popular RPA Challenge combining a [Web application](http://www.rpachallenge.com) and Microsoft Excel.
 
 - The goal of this workshop is to create a bot that will input data from a downloaded spreadsheet into the form fields on the screen.
 - The fields will change position on the screen after every submission throughout 10 rounds thus the automation must correctly identify where each spreadsheet record must be typed every time.
