@@ -2,7 +2,7 @@
 
 In this exercise, you will deploy your project and test it with error and follow the step of the cold debugging.
 
-After completing these steps you will have completed the whole workshop with its 3 exercises. 
+After completing this exercise you will have completed the whole workshop with its 3 exercises. 
 
 ## Summary
 
