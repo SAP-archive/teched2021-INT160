@@ -20,7 +20,7 @@ After completing this [exercise](2.2%20-%20Test%20Download%20Challenge.pdf) you 
 
 ## Exercise 2.3 Fill Fields Automation
 
-After completing this exercise you will have created a second automation that will be used in a loop as a sub-automation.
+After completing this [exercise](2.3%20-%20Fill%20Fields%20Automation.pdf) you will have created a second automation that will be used in a loop as a sub-automation.
 
 - In this [exercise](2.3%20-%20Fill%20Fields%20Automation.pdf), you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
 - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
