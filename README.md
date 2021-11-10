@@ -23,7 +23,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
 
 - [Onboarding to SAP Intelligent RPA Trial](exercises/exercise0/)
     - [Setup PDF document](exercises/exercise0/Setup%20Trial%20Landscape.pdf)
-    - Duration: 15 minutes. 
+    - Duration: 15 minutes 
     - This is a **MANDATORY** exercise that needs to be completed before the workshop.
     - It will help you setup your SAP Business Technology Platform Trial account with SAP Intelligent RPA. 
 
