@@ -14,10 +14,10 @@ In this exercise, you will setup your SAP Intelligent RPA Trial account in Busin
 
 The full detailed steps are described in the [Setup PDF document](Setup%20Trial%20Landscape.pdf)
 
-After completing these steps you will have your system ready with access to your:
+After completing these steps you will have your system ready with access to:
 
-- SAP Intelligent Intelligent Robotic Process Automation Factory
-- Get your Desktop Agent installed in your Windows machine
+- SAP Intelligent Robotic Process Automation Factory
+- your Desktop Agent installed in your Windows machine
 
 ## Summary
 
