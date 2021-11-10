@@ -78,7 +78,9 @@ You will then create a Project Pane which allows you to design the agent systray
 - [Exercise 3 - Deployment & Cold debugging](exercises/exercise3/)
     - [Exercise 3 PDF document](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf)
     - Duration: 20 minutes 
-    - In this exercise, you will learn how to:
+    - In this exercise, you will deploy your project and test it with error and follow the step of the cold debugging.
+
+After completing these steps you will have completed the whole workshop with its 3 exercises. 
 
 ## How to obtain support
 
