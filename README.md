@@ -30,7 +30,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
 - [Exercise 1 - RPA Challenge Application Capture](exercises/exercise1/)
     - [Exercise 1 PDF document](exercises/exercise1/1%20-%20RPA%20Challenge%20Application%20Capture.pdf)
     - Duration: 20 minutes 
-    - In this exercise, you will learn how to capture an application running on your local machine. You start by locating the screens you want to use. For the purpose of this exercise, you will select and capture two screens from the [RPA Challenge website](http://www.rpachallenge.com). 
+    - In this [exercise](1%20-%20RPA%20Challenge%20Application%20Capture.pdf), you will learn how to capture an application running on your local machine. You start by locating the screens you want to use. For the purpose of this exercise, you will select and capture two screens from the [RPA Challenge website](http://www.rpachallenge.com). 
     - Once the screens are captured, you will look at the UI elements you want to control on those screens, such as input fields, output fields, and buttons. These elements will be used in the next exercise : [RPA Challenge Automations](exercises/exercise2/)
     - Another key task is declaration, which means choosing the recognition criteria for the application, screens and UI elements that will be used at run time to correctly identify them.
     
