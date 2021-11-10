@@ -42,7 +42,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
     - Duration: 30 minutes
     - Once the application is declared and the elements you want to work with have been recognized and declared, you can create your automation.
 Automations are executed on the Desktop Agent of your local machine.  They are composed of a succession of steps you build in the Cloud Studio with the automation designer. An automation can orchestrate multiple activities on different applications and screens available on a specific computer.
-    - In this exercise, you will work on the first part of your automation. The bot you will create will open the [RPA Challenge website](http://www.rpachallenge.com), click on the Download Excel button and if the path entered in the bot (where the excel file should be downloaded) exists, will download it and store it on your computer.
+    - In this [exercise](exercises/exercise2/2.1%20-%20First%20Automation.pdf), you will work on the first part of your automation. The bot you will create will open the [RPA Challenge website](http://www.rpachallenge.com), click on the Download Excel button and if the path entered in the bot (where the excel file should be downloaded) exists, will download it and store it on your computer.
     
 ![RPA Challenge](first-automation.png)
 
@@ -50,7 +50,7 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
     - [Exercise 2.2 PDF document](exercises/exercise2/2.2%20-%20Test%20Download%20Challenge.pdf) 
     - Duration: 10 minutes
     - After completing the first automation, you will test it thanks to the tester side panel. This panel helps you test, troubleshoot but also display the execution flow of your automation.
-    - In this exercise, you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
+    - In this [exercise](exercises/exercise2/2.2%20-%20Test%20Download%20Challenge.pdf), you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
     - This testing will allow you to ensure that the file exists and that the path to the file is given.
 
 ![RPA Challenge](test-download-challenge.png)
@@ -68,7 +68,7 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 - [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/exercise2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
     - [Exercise 2.4 PDF document](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf)
     - Duration: 10 minutes
-    - In this exercise you will create a Run RPA Challenge automation that will have an error during runtime. You will use a wrong file path to trigger an error.
+    - In this [exercise](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf), you will create a Run RPA Challenge automation that will have an error during runtime. You will use a wrong file path to trigger an error.
    
 ![RPA Challenge](RpaChallenge-with-error.png)
 
@@ -83,7 +83,7 @@ A Project Pane allows you to design the agent systray menu directly from the Clo
 - [Exercise 3 - Deployment & Cold debugging](exercises/exercise3/)
     - [Exercise 3 PDF document](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf)
     - Duration: 20 minutes 
-    - In this exercise, you will deploy your project and test it with error and follow the step of the cold debugging.
+    - In this  [exercise](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf), you will deploy your project and test it with error and follow the step of the cold debugging.
 
 After completing this exercise you will have completed the whole workshop with its 3 exercises. 
 
