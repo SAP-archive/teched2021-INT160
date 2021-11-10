@@ -4,7 +4,11 @@ In this exercise, you will create the automations that will allow you to run the
 
 ## Exercise 2.1 First Automation
 
-After completing these steps you will have created your first automation.
+After completing this exercise you will have created your first automation.
+
+- Once the application is declared and the elements you want to work with have been recognized and declared, you can create your automation.
+Automations are executed on the Desktop Agent of your local machine.  They are composed of a succession of steps you build in the Cloud Studio with the automation designer. An automation can orchestrate multiple activities on different applications and screens available on a specific computer.
+- In this exercise, you will work on the first part of your automation. The bot you will create will open the [RPA Challenge website](http://www.rpachallenge.com), click on the Download Excel button and if the path entered in the bot (where the excel file should be downloaded) exists, will download it and store it on your computer.
 
 ## Exercise 2.2 Test Download Challenge
 
