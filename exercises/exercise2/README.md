@@ -1,6 +1,6 @@
 # Exercise 2 - RPA Challenge Automations
 
-In this [exercise](exercises/exercise2/), you will create the automations that will allow you to run the RPA challenge either successfully or with error.
+In this [exercise](exercises/exercise2#exercise-21-First-Automation), you will create the automations that will allow you to run the RPA challenge either successfully or with error.
 
 ## Exercise 2.1 First Automation
 
@@ -12,7 +12,7 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 
 ## Exercise 2.2 Test Download Challenge
 
-After completing this [exercise](2.2%20-%20Test%20Download%20Challenge.pdf you will have tested the first part of your automation where you created a bot to download an excel file from the [RPA Challenge website](http://www.rpachallenge.com). This excel file is needed for the second part of the automation where you will use it with Excel Cloud Link activity.
+After completing this [exercise](2.2%20-%20Test%20Download%20Challenge.pdf) you will have tested the first part of your automation where you created a bot to download an excel file from the [RPA Challenge website](http://www.rpachallenge.com). This excel file is needed for the second part of the automation where you will use it with Excel Cloud Link activity.
 
 - After completing the first automation, you will test it thanks to the tester side panel. This panel helps you test, troubleshoot but also display the execution flow of your automation.
 - In this [exercise](2.2%20-%20Test%20Download%20Challenge.pdf, you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
