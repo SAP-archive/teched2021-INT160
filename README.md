@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository are described in the
 
 ## Exercises
 
-There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing any exercises. You have to run exercises 1, 2, and 3 in order. These exercises are dependent of each other and the instructions are mentioned in the respective links below.
+There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing any exercise. You have to run exercises 1, 2, and 3 in order. These exercises are dependent of each other and the instructions are mentioned in the respective links below.
 
 - [Onboarding to SAP Intelligent RPA Trial](exercises/exercise0/)
     - [Setup PDF document](exercises/exercise0/Setup%20Trial%20Landscape.pdf)
