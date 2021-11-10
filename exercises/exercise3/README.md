@@ -6,4 +6,4 @@ After completing these steps you will have completed the whole workshop with its
 
 ## Summary
 
-You've now completed the exercise 3 with a Project deployed and tested with Cold debugging features. Congratulations!!
+You've now completed exercise 3 with a Project deployed and tested with Cold debugging features. Congratulations!!
