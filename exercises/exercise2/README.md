@@ -1,6 +1,6 @@
 # Exercise 2 - RPA Challenge Automations
 
-In this exercise, you will create the automations that will allow you to run the RPA challenge either successfully or with error.
+In this set of exercises, you will create the automations that will allow you to run the RPA challenge either successfully or with error.
 
 ## Exercise 2.1 First Automation
 
