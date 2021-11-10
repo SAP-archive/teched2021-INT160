@@ -85,7 +85,7 @@ A Project Pane allows you to design the agent systray menu directly from the Clo
     - Duration: 20 minutes 
     - In this exercise, you will deploy your project and test it with error and follow the step of the cold debugging.
 
-After completing these steps you will have completed the whole workshop with its 3 exercises. 
+After completing this exercise you will have completed the whole workshop with its 3 exercises. 
 
 ## How to obtain support
 
