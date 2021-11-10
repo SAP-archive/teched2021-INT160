@@ -1,6 +1,6 @@
 # ONBOARD TO SAP BUSINESS TECHNOLOGY PLATFORM TRIAL
 
-In this [exercise](%20Setup%20Trial%20Landscape.pdf), you will setup your SAP Intelligent RPA Trial account in Business Technology Platform.
+In this [exercise](1%20-%20Setup%20Trial%20Landscape.pdf), you will setup your SAP Intelligent RPA Trial account in Business Technology Platform.
 
 ## Create Trial account in BTP
 
