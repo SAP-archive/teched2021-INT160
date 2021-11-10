@@ -52,6 +52,8 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
     - In this exercise, you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
     - This testing will allow you to ensure that the file exists and that the path to the file is given.
 
+![RPA Challenge](test-download-challenge.png)
+
 - [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
     - [Exercise 2.3 PDF document](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf) 
     - Duration: 20 minutes
