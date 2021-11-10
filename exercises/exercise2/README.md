@@ -23,9 +23,9 @@ After completing this exercise you will have tested the first part of your autom
 After completing this exercise you will have created a second automation that will be used in a loop as a sub-automation.
 
 - In this second part, you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
-    - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
-    - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
-    - You will then add the Results application. Similarly you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
+- Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
+- The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
+- You will then add the Results application. Similarly you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
 
 ## Exercise 2.4 Run RPA Challenge with error and Project Pane
 
@@ -37,7 +37,7 @@ After completing this exercise you will have created a second automation that wi
 
 ## Summary
 
-You've now completed the exercise 2 with a Project Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
-With the first case with error, in the next exercise, you will experience the power of the Cold debugging to understand the raised error.
+You've now completed exercise 2 with a Project Pane and all the automations needed to run the RPA Challenge in different situations: with and without error.
+Get ready to experience the power of Cold debugging in the next exercise to understand the error raised during the first case with error.
 
 Continue to - [Exercise 3 - Deployment & Cold debugging](../exercise3/README.md)
