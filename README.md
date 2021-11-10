@@ -67,7 +67,10 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 - [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/exercise2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
     - [Exercise 2.4 PDF document](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf)
     - Duration: 10 minutes
-    - In this exercise, you will learn how to:
+    - In this exercise you will create an automation with an error. You will use a wrong file path to trigger an error
+    - You will then create a Project Pane which allows you to design the agent systray menu directly from the Cloud Studio letting you select the automation you want to launch.
+
+![RPA Challenge](error-project-pane.png)
 
 - [Exercise 3 - Deployment & Cold debugging](exercises/exercise3/)
     - [Exercise 3 PDF document](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf)
