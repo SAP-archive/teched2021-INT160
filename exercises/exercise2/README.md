@@ -12,21 +12,28 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 
 ## Exercise 2.2 Test Download Challenge
 
-After completing these steps you will have tested the first part of your automation, making a download of the excel file.
+After completing this exercise you will have tested the first part of your automation where you created a bot to download an excel file from the [RPA Challenge website](http://www.rpachallenge.com). This excel file is needed for the second part of the automation where you will use it with Excel Cloud Link activity.
 
-This excel file is needed for the second part of the automation where you will use it with Excel Cloud Link activity.
+- After completing the first automation, you will test it thanks to the tester side panel. This panel helps you test, troubleshoot but also display the execution flow of your automation.
+- In this exercise, you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
+- This testing will allow you to ensure that the file exists and that the path to the file is given.
 
 ## Exercise 2.3 Fill Fields Automation
 
-After completing these steps you will have created a second automation that will be used in a loop as a sub-automation.
+After completing this exercise you will have created a second automation that will be used in a loop as a sub-automation.
+
+- In this second part, you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
+    - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
+    - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
+    - You will then add the Results application. Similarly you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
 
 ## Exercise 2.4 Run RPA Challenge with error and Project Pane
 
-After completing these steps you will have created:
-- a Run RPA Challenge automation that will have an error during runtime.
-- a Project Pane that will hold two attended automations
+- In this exercise you will create a Run RPA Challenge automation that will have an error during runtime. You will use a wrong file path to trigger an error.
+- You will then create a Project Pane that will hold two attended automations:
     - Run RPA Challenge
     - Run RPA Challenge with error
+- A Project Pane allows you to design the agent systray menu directly from the Cloud Studio letting you select the automation you want to launch.
 
 ## Summary
 
