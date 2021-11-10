@@ -75,8 +75,8 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 You will then create a Project Pane that will hold two attended automations: 
 - Run RPA Challenge
 - Run RPA Challenge with error
-- 
-A Project Pane allows you to design the agent systray menu directly from the Cloud Studio letting you select the automation you want to launch
+
+A Project Pane allows you to design the agent systray menu directly from the Cloud Studio letting you select the automation you want to launch.
 
 ![RPA Challenge](error-project-pane.png)
 
