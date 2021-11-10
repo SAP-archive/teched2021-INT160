@@ -22,15 +22,15 @@ The requirements to follow the exercises in this repository are described in the
 There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing any exercises. You have to run exercises 1, 2, and 3 in order. These exercises are dependent of each other and the instructions are mentioned in the respective links below.
 
 - [Onboarding to SAP Intelligent RPA Trial](exercises/exercise0/)
-    - Duration: 15 minutes. This is a **MANDATORY** exercise that needs to be completed before the workshop.
     - [Setup PDF document](exercises/exercise0/Setup%20Trial%20Landscape.pdf)
+    - Duration: 15 minutes. This is a **MANDATORY** exercise that needs to be completed before the workshop.
     - It will help you setup your SAP Business Technology Platform Trial account with SAP Intelligent RPA. 
 
 - [Exercise 1 - RPA Challenge Application Capture](exercises/exercise1/)
-    - Duration: 20 minutes 
     - [Exercise 1 PDF document](exercises/exercise1/1%20-%20RPA%20Challenge%20Application%20Capture.pdf)
+    - Duration: 20 minutes 
     - In this exercise, you will learn how to capture an application running on your local machine. You start by locating the screens you want to use. For the purpose of this exercise, you will select and capture two screens from the [RPA Challenge website](http://www.rpachallenge.com). 
-    - Once the screens are captured, you will look at the UI elements you want to control on those screens, such as input fields, output fields, and buttons. These elements will be used in the next step : [RPA Challenge Automations](exercises/exercise2/)
+    - Once the screens are captured, you will look at the UI elements you want to control on those screens, such as input fields, output fields, and buttons. These elements will be used in the next exercise : [RPA Challenge Automations](exercises/exercise2/)
     - Another key task is declaration, which means choosing the recognition criteria for the application, screens and UI elements that will be used at run time to correctly identify them.
     
 ![RPA Challenge](rpa-challenge.png)
@@ -48,12 +48,17 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 - [Exercise 2.2 - Test Download Challenge](exercises/exercise2#exercise-22-Test-Download-Challenge)
     - [Exercise 2.2 PDF document](exercises/exercise2/2.2%20-%20Test%20Download%20Challenge.pdf) 
     - Duration: 10 minutes
-    - In this exercise, you will learn how to:
+    - After completing the first automation, you will test it thanks to the tester side panel. This panel helps you test, troubleshoot but also display the execution flow of your automation.
+    - In this exercise, you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
+    - This testing will allow you to ensure that the file exists and that the path to the file is given.
 
 - [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
     - [Exercise 2.3 PDF document](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf) 
     - Duration: 20 minutes
-    - In this exercise, you will learn how to:
+    - In this second part, you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
+    - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
+    - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
+    - You will then add the Results application. Similarly you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
 
 - [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/exercise2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
     - [Exercise 2.4 PDF document](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf)
