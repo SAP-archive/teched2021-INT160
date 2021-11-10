@@ -69,7 +69,7 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
     - [Exercise 2.4 PDF document](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf)
     - Duration: 10 minutes
     - In this exercise you will create a Run RPA Challenge automation that will have an error during runtime. You will use a wrong file path to trigger an error.
-
+   
 ![RPA Challenge](RpaChallenge-with-error.png)
 
     - You will then create a Project Pane that will hold two attended automations: Run RPA Challenge and Run RPA Challenge with error
