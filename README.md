@@ -87,6 +87,8 @@ A Project Pane allows you to design the agent systray menu directly from the Clo
 
 After completing this exercise you will have completed the whole workshop with its 3 exercises. 
 
+![RPA Challenge](images/deployment.png)
+
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
