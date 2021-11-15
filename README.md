@@ -83,7 +83,7 @@ A Project Pane allows you to design the agent systray menu directly from the Clo
 - [Exercise 3 - Deployment & Cold debugging](exercises/exercise3/)
     - [Exercise 3 PDF document](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf)
     - Duration: 20 minutes 
-    - In this  [exercise](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf), you will deploy your project and test it with error and follow the step of the cold debugging.
+    - In this  [exercise](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf), you will deploy your project and test it with error and follow the steps of the cold debugging.
 
 After completing this exercise you will have completed the whole workshop with its 3 exercises. 
 
