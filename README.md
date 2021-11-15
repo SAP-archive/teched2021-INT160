@@ -39,7 +39,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
 - [Exercise 2 - RPA Challenge Automations](exercises/exercise2/)
 - [Exercise 2.1 - First Automation](exercises/exercise2#exercise-21-First-Automation)
     - [Exercise 2.1 PDF document](exercises/exercise2/2.1%20-%20First%20Automation.pdf)
-    - Duration: 30 minutes
+    - Duration: 20 minutes
     - Once the application is declared and the elements you want to work with have been recognized and declared, you can create your automation.
 Automations are executed on the Desktop Agent of your local machine.  They are composed of a succession of steps you build in the Cloud Studio with the automation designer. An automation can orchestrate multiple activities on different applications and screens available on a specific computer.
     - In this [exercise](exercises/exercise2/2.1%20-%20First%20Automation.pdf), you will work on the first part of your automation. The bot you will create will open the [RPA Challenge website](http://www.rpachallenge.com), click on the Download Excel button and if the path entered in the bot (where the excel file should be downloaded) exists, will download it and store it on your computer.
@@ -57,7 +57,7 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
 
 - [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
     - [Exercise 2.3 PDF document](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf) 
-    - Duration: 20 minutes
+    - Duration: 30 minutes
     - In this [exercise](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf), you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
     - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
     - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
