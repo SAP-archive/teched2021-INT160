@@ -25,7 +25,7 @@ After completing this [exercise](2.3%20-%20Fill%20Fields%20Automation.pdf) you w
 - In this [exercise](2.3%20-%20Fill%20Fields%20Automation.pdf), you will continue working on the automation. Now that you tested that the file exists and that the path to the file is given, you can direct the bot to open the excel file and read the information in the file.
 - Next, you will create a new automation called Fill fields that you will use as a sub-automation inside the Run RPA Challenge automation. 
 - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
-- You will then add the Results application. Similarly you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
+- You will then add the Results application. Similarly, you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
 
 ## Exercise 2.4 Run RPA Challenge with error and Project Pane
 
