@@ -34,7 +34,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
     - Once the screens are captured, you will look at the UI elements you want to control on those screens, such as input fields, output fields, and buttons. These elements will be used in the next exercise : [RPA Challenge Automations](exercises/exercise2/)
     - Another key task is declaration, which means choosing the recognition criteria for the application, screens and UI elements that will be used at run time to correctly identify them.
     
-![RPA Challenge](rpa-challenge.png)
+![RPA Challenge](images/rpa-challenge.png)
 
 - [Exercise 2 - RPA Challenge Automations](exercises/exercise2/)
 - [Exercise 2.1 - First Automation](exercises/exercise2#exercise-21-First-Automation)
@@ -44,7 +44,7 @@ There are 4 sets of exercises. Exercise 0 is a mandatory setup before executing 
 Automations are executed on the Desktop Agent of your local machine.  They are composed of a succession of steps you build in the Cloud Studio with the automation designer. An automation can orchestrate multiple activities on different applications and screens available on a specific computer.
     - In this [exercise](exercises/exercise2/2.1%20-%20First%20Automation.pdf), you will work on the first part of your automation. The bot you will create will open the [RPA Challenge website](http://www.rpachallenge.com), click on the Download Excel button and if the path entered in the bot (where the excel file should be downloaded) exists, will download it and store it on your computer.
     
-![RPA Challenge](first-automation.png)
+![RPA Challenge](images/first-automation.png)
 
 - [Exercise 2.2 - Test Download Challenge](exercises/exercise2#exercise-22-Test-Download-Challenge)
     - [Exercise 2.2 PDF document](exercises/exercise2/2.2%20-%20Test%20Download%20Challenge.pdf) 
@@ -53,7 +53,7 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
     - In this [exercise](exercises/exercise2/2.2%20-%20Test%20Download%20Challenge.pdf), you will learn how to set breakpoints, debug your automation, check the input and output parameters. 
     - This testing will allow you to ensure that the file exists and that the path to the file is given.
 
-![RPA Challenge](test-download-challenge.png)
+![RPA Challenge](images/test-download-challenge.png)
 
 - [Exercise 2.3 - Fill Fields Automation](exercises/exercise2#exercise-23-fill-Fields-Automation)
     - [Exercise 2.3 PDF document](exercises/exercise2/2.3%20-%20Fill%20Fields%20Automation.pdf) 
@@ -63,14 +63,14 @@ Automations are executed on the Desktop Agent of your local machine.  They are c
     - The Fill Fields automation will use the Main application. You will then define which activities should be performed on the screen such as fill the fields, click start, etc...
     - You will then add the Results application. Similarly, you will define the activities that should be performed on the screen such as get the result rate. The result will be then saved as a screenshot on your computer.
 
-![RPA Challenge](fill-fields-automation.png)
+![RPA Challenge](images/fill-fields-automation.png)
 
 - [Exercise 2.4 - Run RPA Challenge with error and Project Pane](exercises/exercise2#exercise-24-Run-RPA-Challenge-with-error-and-Project-Pane)
     - [Exercise 2.4 PDF document](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf)
     - Duration: 10 minutes
     - In this [exercise](exercises/exercise2/2.4%20-%20Run%20RPA%20Challenge%20with%20error%20and%20Project%20Pane.pdf), you will create a Run RPA Challenge automation that will have an error during runtime. You will use a wrong file path to trigger an error.
    
-![RPA Challenge](RpaChallenge-with-error.png)
+![RPA Challenge](images/RpaChallenge-with-error.png)
 
 You will then create a Project Pane that will hold two attended automations: 
 - Run RPA Challenge
@@ -78,7 +78,7 @@ You will then create a Project Pane that will hold two attended automations:
 
 A Project Pane allows you to design the agent systray menu directly from the Cloud Studio letting you select the automation you want to launch.
 
-![RPA Challenge](error-project-pane.png)
+![RPA Challenge](images/error-project-pane.png)
 
 - [Exercise 3 - Deployment & Cold debugging](exercises/exercise3/)
     - [Exercise 3 PDF document](exercises/exercise3/3%20-%20Deployment%20&%20Cold%20debugging.pdf)
