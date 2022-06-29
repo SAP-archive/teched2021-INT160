@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-INT160)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-INT160)
+
 # INT160 - Building a production grade automation in minutes with SAP Intelligent RPA
 
 ## Description
